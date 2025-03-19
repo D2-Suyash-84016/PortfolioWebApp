@@ -1,5 +1,9 @@
 import { ThemeProvider } from "styled-components";
+<<<<<<< HEAD
 import { useState } from "react";
+=======
+import { useState} from "react";
+>>>>>>> c398984f16bd6c93df59a23e369afe4121e149a3
 import { darkTheme, lightTheme } from "./utils/Themes.js";
 import Navbar from "./components/Navbar/index.js";
 import "./App.css";
