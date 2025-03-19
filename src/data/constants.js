@@ -278,7 +278,7 @@ export const projects = [
     description:
       "web-based application designed to streamline the process of managing parking spaces efficiently. It allows users to reserve and pay for parking slots online. ",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "https://i.postimg.cc/kGJP5MQS/Screenshot-1058.png",
     tags: [
       "ReactJS",
       "SpringBoot",
@@ -296,7 +296,7 @@ export const projects = [
     description:
       "",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+      "https://i.postimg.cc/Tw8fgf9h/Screenshot-2025-03-16-144227.png",
     tags: ["React Js"],
     category: "web app",
     github: "https://github.com/Car-Parking-System/Car-Parking-System",
@@ -306,12 +306,12 @@ export const projects = [
   
   {
     id: 4,
-    title: "Whatsapp Clone",
-    date: "Jul 2021",
+    title: "Ai Code Reviewer",
+    date: "dec 2024",
     description:
-      "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
+      "Our AI Code Reviewer project leverages the Gemini 2.0 API integrated with the MERN (MongoDB, Express.js, React.js, Node.js) stack to enhance code quality and efficiency. The system analyzes input code submissions, employing advanced algorithms to identify potential improvements and issues such as performance bottlenecks, code readability, security vulnerabilities, and adherence to best practices. Through a user-friendly interface, developers receive actionable feedback, empowering them to refine their code swiftly and effectively.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
+      "https://i.postimg.cc/RF7c7Cc0/Screenshot-2025-03-19-111651.png",
     tags: ["React Js", "Firebase", "Firestore", "Node JS"],
     category: "web app",
     github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
